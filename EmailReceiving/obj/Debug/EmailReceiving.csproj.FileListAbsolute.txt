@@ -1,0 +1,9 @@
+C:\Users\Snorock\Desktop\Programing\testEmailClient\EmailReceiving\EmailReceiving\bin\Debug\EmailReceiving.exe.config
+C:\Users\Snorock\Desktop\Programing\testEmailClient\EmailReceiving\EmailReceiving\bin\Debug\EmailReceiving.exe
+C:\Users\Snorock\Desktop\Programing\testEmailClient\EmailReceiving\EmailReceiving\bin\Debug\EmailReceiving.pdb
+C:\Users\Snorock\Desktop\Programing\testEmailClient\EmailReceiving\EmailReceiving\bin\Debug\OpenPop.dll
+C:\Users\Snorock\Desktop\Programing\testEmailClient\EmailReceiving\EmailReceiving\obj\Debug\EmailReceiving.csprojResolveAssemblyReference.cache
+C:\Users\Snorock\Desktop\Programing\testEmailClient\EmailReceiving\EmailReceiving\obj\Debug\EmailReceiving.exe
+C:\Users\Snorock\Desktop\Programing\testEmailClient\EmailReceiving\EmailReceiving\obj\Debug\EmailReceiving.pdb
+C:\Users\Snorock\Desktop\Programing\testEmailClient\EmailReceiving\EmailReceiving\bin\Debug\System.Threading.dll
+C:\Users\Snorock\Desktop\Programing\testEmailClient\EmailReceiving\EmailReceiving\bin\Debug\System.Threading.xml
